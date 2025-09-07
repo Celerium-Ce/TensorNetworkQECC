@@ -1,0 +1,20 @@
+# Core tensor network + graph
+quimb>=1.4.0
+networkx>=3.2
+
+# Contraction optimizers
+opt_einsum>=3.3.0
+cotengra>=0.5.0
+autoray>=0.6.1
+
+# Numerical + scientific
+numpy>=1.26
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.8
+
+# Development
+jupyterlab>=4.0
+pytest>=7.4
+
